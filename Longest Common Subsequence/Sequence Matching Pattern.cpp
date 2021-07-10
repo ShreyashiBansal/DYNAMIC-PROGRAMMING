@@ -36,3 +36,6 @@ int main()
     cout<<x << " is not the sequence matching pattern in " << y;
     return 0;
 }
+/*
+output::   axy is the sequence matching pattern in adxcpy
+*/
